@@ -1,19 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*Serializer.java</mask>
-      <mask>*Deserializer.java</mask>
-    </recentFileMasks>
+    <option name="customScope" value="Project 'jbus'" />
+    <option name="defaultScopeName" value="Project 'jbus'" />
+    <option name="SEARCH_SCOPE" value="Project 'jbus'" />
   </component>
 </application>
