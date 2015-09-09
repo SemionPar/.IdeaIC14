@@ -1,0 +1,21 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/settings(1).jar&#10;C:/Users/Programista/IdeaProjects/jbus-dto" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="lastTip" value="2" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="Tests" value="Green" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="export.settings.path" value="C:\Users\Programista\.IdeaIC14\config\settings.jar" />
+    <property name="PLUGIN_FILTER" value="ecl" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Blank Lines" />
+    <property name="KEYMAP" value="camelhu&#10;pin&#10;close" />
+  </component>
+</application>

@@ -1,0 +1,44 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift alt Q" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift alt HOME" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt END" />
+  </action>
+  <action id="HungryBackSpace.StopAtIndent">
+    <keyboard-shortcut first-keystroke="control BACK_SLASH" />
+  </action>
+  <action id="ImportProject">
+    <keyboard-shortcut first-keystroke="shift alt P" />
+  </action>
+  <action id="NewProjectFromVCS">
+    <keyboard-shortcut first-keystroke="shift alt G" />
+  </action>
+  <action id="PinToolwindowTab">
+    <keyboard-shortcut first-keystroke="shift alt QUOTE" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift alt E" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="ToggleCamelAction">
+    <keyboard-shortcut first-keystroke="control alt QUOTE" />
+  </action>
+</keymap>

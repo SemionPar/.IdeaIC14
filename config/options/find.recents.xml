@@ -1,0 +1,73 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>build()</find>
+      <find>sanctionListInformation</find>
+      <find>ScreeningIdentityNumber</find>
+      <find>pl.cinkciarz.jbus.dto.protoPojo.</find>
+      <find>GetSanctionListResponse</find>
+      <find>DateTime</find>
+      <find>OmsMessages.</find>
+      <find>ScreeningSubject</find>
+      <find>SanctionCompany</find>
+      <find>Gender</find>
+      <find>Warning</find>
+      <find>remoteSubscribe</find>
+      <find>remoteSubscribeBatch</find>
+      <find>ScreenSanctionResultRequest</find>
+      <find>private LinkedBuffer buffer = LinkedBuffer.allocate(512);</find>
+      <find>suff</find>
+      <find>filename_suffix</find>
+      <find>&lt;name&gt;mvn.local-releases&lt;/name</find>
+      <find>return serializeProtobufMessage(</find>
+      <find>deserializeMessageProtostuff(byte[</find>
+      <find>shouldDeserializeNodeAuthenticationResponse</find>
+      <find>NodeAuthenticationResponse</find>
+      <find>nodeAuthenticationResponseProtobuf</find>
+      <find>(byte[] bytes) throws InvalidProtocolBufferException {</find>
+      <find>throws InvalidProtocolBufferException</find>
+      <find>BaseScreesRequest</find>
+      <find>ScreenSanctionRequest</find>
+      <find>pl.cinkciarz.jbus.dto.serializer.protobuf.ScreenSanctionRequestSerializerTest#shouldSerializePersonSubjectAndEqualsBytes</find>
+      <find>shouldSerializePersonSubjectAndEqualsBytes</find>
+      <find>BusinessClientCompanyNameExis</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;//*[@id=\\\\&quot;main-content\\\\&quot;]/form/div[2]/div[1]/div[3]/label&quot;</replace>
+      <replace>TransfersPage</replace>
+      <replace>transfersPage</replace>
+      <replace>&quot; Set</replace>
+      <replace>@return UsersPage</replace>
+      <replace>new UsersPage(driver());</replace>
+      <replace>shouldD</replace>
+      <replace>selectByText</replace>
+      <replace>@return TransactionsFxSearchPage</replace>
+      <replace>transactionsFxSearchPage = new TransactionsFxSearchPage(driver());</replace>
+      <replace>standingOrdersSearchPage = new StandingOrdersSearchPage(driver());</replace>
+      <replace>walletTransactionsSearchPage = new WalletTransactionsSearchPage(driver());</replace>
+      <replace>@return  WalletTransactionsSearchPage</replace>
+      <replace>@return WalletTransactionsSearchPage</replace>
+      <replace>taskManagementPage = new TaskManagementPage(driver());</replace>
+      <replace>@return TaskManagementPage</replace>
+      <replace>addTaskPage = new AddTaskPage(driver());</replace>
+      <replace>@return AddTaskPage</replace>
+      <replace>taskManagementPanelPage = new TaskManagementPanelPage(driver());</replace>
+      <replace>futureLogPage = new FutureLogPage(driver());</replace>
+      <replace>method.getName()</replace>
+      <replace>getTaskTitle(method)</replace>
+      <replace>(Method method) {</replace>
+      <replace>(new AddTaskPage(driver()), DISTANT_FUTURE_DATE, getTaskTitle(method))</replace>
+      <replace>pl.cinkciarz.jbus.dto.proto.</replace>
+      <replace>private LinkedBuffer buffer = LinkedBuffer.allocate(DEFAULT_BUFFER_SIZE);</replace>
+      <replace>return serializeProtostuffMessage(</replace>
+      <replace>deserializeMessage(byte[</replace>
+      <replace />
+      <replace>(byte[] bytes)  {</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\serializer\protobuf</dir>
+      <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\deserializer\protobuf</dir>
+      <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\builder</dir>
+    </dirStrings>
+  </component>
+</application>

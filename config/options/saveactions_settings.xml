@@ -1,0 +1,10 @@
+<application>
+  <component name="SaveActionSettings">
+    <option name="exclusions">
+      <set>
+        <option value=".*/.*\.gradle" />
+      </set>
+    </option>
+    <option name="rearrange" value="true" />
+  </component>
+</application>
