@@ -1,37 +1,34 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="run-configuration-type-temp">
-      <project id="jbus-dto" values="JUnit" collectionTime="1441803956979" />
+      <project id="jbus-dto" values="JUnit" collectionTime="1441804271459" />
     </group>
     <group name="language-level">
-      <project id="jbus-dto" values="JDK_1_8" collectionTime="1441803957050" />
+      <project id="jbus-dto" values="JDK_1_8" collectionTime="1441804271544" />
     </group>
     <group name="file-type">
-      <project id="jbus-dto" values="Git file,PLAIN_TEXT,JAVA,UNKNOWN,XML,Protobuf,IDEA_MODULE" collectionTime="1441803957035" />
+      <project id="jbus-dto" values="XML,JAVA,Git file,Protobuf,IDEA_MODULE,UNKNOWN,PLAIN_TEXT" collectionTime="1441804271526" />
     </group>
     <group name="vcs">
-      <project id="jbus-dto" values="Git" collectionTime="1441803956978" />
-    </group>
-    <group name="VCS Log">
-      <project id="jbus-dto" values="vcs.log.git.root.count=2,vcs.log.commit.count=526" collectionTime="1441803957049" />
+      <project id="jbus-dto" values="Git" collectionTime="1441804271456" />
     </group>
     <group name="frameworks">
-      <project id="jbus-dto" values="protobuf" collectionTime="1441803956978" />
+      <project id="jbus-dto" values="protobuf" collectionTime="1441804271458" />
     </group>
     <group name="module type">
-      <project id="jbus-dto" values="JAVA_MODULE" collectionTime="1441803956979" />
+      <project id="jbus-dto" values="JAVA_MODULE" collectionTime="1441804271458" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="ide.settings.Appearance" count="1" />
       <entry feature="ide.settings.Code_Style" count="1" />
-      <entry feature="ide.settings.Git" count="2" />
+      <entry feature="ide.settings.Git" count="3" />
       <entry feature="ide.settings.Java" count="4" />
-      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.Keymap" count="2" />
       <entry feature="ide.settings.Plugins" count="1" />
       <entry feature="ide.settings.Terminal" count="4" />
-      <entry feature="ideaapp.started" count="7" />
+      <entry feature="ideaapp.started" count="9" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
   </component>
