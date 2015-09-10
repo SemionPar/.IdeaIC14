@@ -1,22 +1,27 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="run-configuration-type-temp">
-      <project id="jbus-dto" values="JUnit" collectionTime="1441804271459" />
+      <project id="jbus-dto" values="JUnit" collectionTime="1441804511851" />
+      <project id="veris-knf" values="GradleRunConfiguration" collectionTime="1441865560671" />
     </group>
     <group name="language-level">
-      <project id="jbus-dto" values="JDK_1_8" collectionTime="1441804271544" />
+      <project id="jbus-dto" values="JDK_1_8" collectionTime="1441804511951" />
+      <project id="veris-knf" values="JDK_1_8" collectionTime="1441865560783" />
     </group>
     <group name="file-type">
-      <project id="jbus-dto" values="XML,JAVA,Git file,Protobuf,IDEA_MODULE,UNKNOWN,PLAIN_TEXT" collectionTime="1441804271526" />
+      <project id="jbus-dto" values="Protobuf,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,XML,Git file,JAVA" collectionTime="1441804511937" />
+      <project id="veris-knf" values="Git file,XML,JavaScript,UNKNOWN,JAVA,IDEA_MODULE,HTML,Groovy,Properties,CSS,JSP,PLAIN_TEXT,Images" collectionTime="1441865560757" />
     </group>
     <group name="vcs">
-      <project id="jbus-dto" values="Git" collectionTime="1441804271456" />
+      <project id="jbus-dto" values="Git" collectionTime="1441804511849" />
+      <project id="veris-knf" values="Git" collectionTime="1441865560669" />
     </group>
     <group name="frameworks">
-      <project id="jbus-dto" values="protobuf" collectionTime="1441804271458" />
+      <project id="jbus-dto" values="protobuf" collectionTime="1441804511849" />
     </group>
     <group name="module type">
-      <project id="jbus-dto" values="JAVA_MODULE" collectionTime="1441804271458" />
+      <project id="jbus-dto" values="JAVA_MODULE" collectionTime="1441804511850" />
+      <project id="veris-knf" values="JAVA_MODULE" collectionTime="1441865560670" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -25,10 +30,11 @@
       <entry feature="ide.settings.Code_Style" count="1" />
       <entry feature="ide.settings.Git" count="3" />
       <entry feature="ide.settings.Java" count="4" />
-      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Keymap" count="3" />
       <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Save_Actions" count="4" />
       <entry feature="ide.settings.Terminal" count="4" />
-      <entry feature="ideaapp.started" count="9" />
+      <entry feature="ideaapp.started" count="10" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
   </component>

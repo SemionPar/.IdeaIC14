@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>build()</find>
       <find>sanctionListInformation</find>
       <find>ScreeningIdentityNumber</find>
       <find>pl.cinkciarz.jbus.dto.protoPojo.</find>
@@ -31,6 +30,7 @@
       <find>pl.cinkciarz.jbus.dto.serializer.protobuf.ScreenSanctionRequestSerializerTest#shouldSerializePersonSubjectAndEqualsBytes</find>
       <find>shouldSerializePersonSubjectAndEqualsBytes</find>
       <find>BusinessClientCompanyNameExis</find>
+      <find>pobranie-raportu-fin</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;//*[@id=\\\\&quot;main-content\\\\&quot;]/form/div[2]/div[1]/div[3]/label&quot;</replace>
@@ -68,6 +68,7 @@
       <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\serializer\protobuf</dir>
       <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\deserializer\protobuf</dir>
       <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\builder</dir>
+      <dir>C:\Users\Programista\IdeaProjects\veris-big\src</dir>
     </dirStrings>
   </component>
 </application>
