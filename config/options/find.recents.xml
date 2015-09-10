@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>sanctionListInformation</find>
       <find>ScreeningIdentityNumber</find>
       <find>pl.cinkciarz.jbus.dto.protoPojo.</find>
       <find>GetSanctionListResponse</find>
@@ -31,6 +30,7 @@
       <find>shouldSerializePersonSubjectAndEqualsBytes</find>
       <find>BusinessClientCompanyNameExis</find>
       <find>pobranie-raportu-fin</find>
+      <find>address2</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;//*[@id=\\\\&quot;main-content\\\\&quot;]/form/div[2]/div[1]/div[3]/label&quot;</replace>

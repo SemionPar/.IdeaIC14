@@ -2,7 +2,8 @@
   <component name="SaveActionSettings">
     <option name="exclusions">
       <set>
-        <option value="build\.gradle" />
+        <option value=".*/.*\.gradle" />
+        <option value=".*\.gradle" />
       </set>
     </option>
     <option name="rearrange" value="true" />

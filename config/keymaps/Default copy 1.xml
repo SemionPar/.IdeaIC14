@@ -36,4 +36,5 @@
     <keyboard-shortcut first-keystroke="shift control A" />
     <keyboard-shortcut first-keystroke="control alt QUOTE" />
   </action>
+  <action id="context.load" />
 </keymap>
