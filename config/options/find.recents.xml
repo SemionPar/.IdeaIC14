@@ -1,19 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>ScreeningIdentityNumber</find>
-      <find>pl.cinkciarz.jbus.dto.protoPojo.</find>
-      <find>GetSanctionListResponse</find>
-      <find>DateTime</find>
-      <find>OmsMessages.</find>
-      <find>ScreeningSubject</find>
-      <find>SanctionCompany</find>
-      <find>Gender</find>
-      <find>Warning</find>
-      <find>remoteSubscribe</find>
-      <find>remoteSubscribeBatch</find>
-      <find>ScreenSanctionResultRequest</find>
-      <find>private LinkedBuffer buffer = LinkedBuffer.allocate(512);</find>
       <find>suff</find>
       <find>filename_suffix</find>
       <find>&lt;name&gt;mvn.local-releases&lt;/name</find>
@@ -31,6 +18,19 @@
       <find>BusinessClientCompanyNameExis</find>
       <find>pobranie-raportu-fin</find>
       <find>address2</find>
+      <find>liczba-rachunkow</find>
+      <find>obow</find>
+      <find>dane-agregowane</find>
+      <find>opis-kodu-klasyfikacji-uzupel</find>
+      <find>dane-dot-repr-os</find>
+      <find>zobow-niebank</find>
+      <find>zobow-niesp</find>
+      <find>form-przek-adr</find>
+      <find>zagr-dane-adr</find>
+      <find>dlugi-info</find>
+      <find>przeswietl.pl</find>
+      <find>zastrz-udost-dan-kli</find>
+      <find>liczba-rek</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;//*[@id=\\\\&quot;main-content\\\\&quot;]/form/div[2]/div[1]/div[3]/label&quot;</replace>
@@ -69,6 +69,7 @@
       <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\deserializer\protobuf</dir>
       <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\builder</dir>
       <dir>C:\Users\Programista\IdeaProjects\veris-big\src</dir>
+      <dir>C:\Users\Programista\IdeaProjects\veris-big\src\main\java</dir>
     </dirStrings>
   </component>
 </application>
