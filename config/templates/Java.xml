@@ -24,4 +24,14 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="chst" value="private $TYPE$ $NAME$;&#10;public $THIS$ set$BNAME$($TYPE$ $NAME$) {&#10;    this.$NAME$ = $NAME$;&#10;    return this;&#10;}" description="Generate chained setters" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="THIS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="BNAME" expression="capitalize(String)" defaultValue="NAME" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -1,6 +1,0 @@
-com.intellij
-EclipseCodeFormatter
-Key promoter
-Atlassian Connector for IntelliJ IDE
-com.dubreuia
-soapUI Plugin

@@ -1,9 +1,9 @@
 <application>
   <component name="DimensionService">
     <location key="FileChooserDialogImpl.0.0.1920.1200" x="667" y="327" />
-    <location key="WELCOME_SCREEN.0.0.1920.1200" x="929" y="608" />
+    <location key="WELCOME_SCREEN.0.0.1920.1200" x="929" y="230" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1200" x="636" y="411" />
-    <location key="SettingsEditor.0.0.1920.1200" x="433" y="161" />
+    <location key="SettingsEditor.0.0.1920.1200" x="583" y="295" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1200" x="686" y="463" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1200" x="734" y="301" />
     <location key="DiffWindow.0.0.1920.1200" x="246" y="114" />
@@ -22,26 +22,44 @@
     <location key="VCS.ChangelistChooser.0.0.1920.1200" x="744" y="424" />
     <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1200" x="473" y="0" />
     <location key="refactoring.ChangeSignatureDialog.0.0.1920.1200" x="670" y="209" />
-    <location key="DiffContextDialog.0.0.1920.1200" x="178" y="82" />
+    <location key="DiffContextDialog.0.0.1920.1200" x="92" y="92" />
     <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1200" x="515" y="510" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1200" x="759" y="210" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1200" x="704" y="390" />
     <location key="WELCOME_SCREEN.1920.0.1920.1200" x="2911" y="608" />
-    <location key="dock-window-1.1920.0.1920.1200" x="1982" y="0" />
+    <location key="dock-window-1.1920.0.1920.1200" x="1974" y="-8" />
     <location key="#Atlassian_Connector_-_Global.0.0.1920.1200" x="571" y="266" />
     <location key="#Atlassian_Connector_-_Project.0.0.1920.1200" x="511" y="192" />
+    <location key="replaceTextDialog.0.0.1920.1200" x="1028" y="132" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1920.1200" x="455" y="527" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1200" x="668" y="363" />
+    <location key="scopes.0.0.1920.1200" x="721" y="451" />
+    <location key="RollbackChangesDialog.1920.0.1920.1200" x="2690" y="321" />
+    <location key="git4idea.branch.GitSmartOperationDialog.0.0.1920.1200" x="709" y="313" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.1920.1200" x="661" y="313" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1200" x="572" y="128" />
+    <location key="StructurePopup.0.0.1920.1200" x="710" y="384" />
     <size key="DiffWindow.0.0.1920.1200" width="1610" height="1086" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1858" height="288" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1858" height="288" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1858" height="288" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1858" height="288" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1814" height="275" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1814" height="275" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1814" height="275" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1814" height="275" />
     <size key="javadoc.popup.0.0.1920.1200" width="446" height="165" />
     <size key="javadoc.popup.1920.0.1920.1200" width="446" height="165" />
     <size key="GridCell.Tab.1.left.0.0.1920.1200" width="1858" height="145" />
     <size key="GridCell.Tab.1.center.0.0.1920.1200" width="1858" height="145" />
     <size key="GridCell.Tab.1.right.0.0.1920.1200" width="1858" height="145" />
     <size key="GridCell.Tab.1.bottom.0.0.1920.1200" width="1858" height="145" />
-    <size key="dock-window-1.1920.0.1920.1200" width="929" height="1200" />
-    <extendedState key="dock-window-1" state="0" />
+    <size key="dock-window-1.1920.0.1920.1200" width="1874" height="1216" />
+    <size key="DiffContextDialog.0.0.1920.1200" width="1674" height="1016" />
+    <size key="StructurePopup.0.0.1920.1200" width="420" height="391" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1200" width="1814" height="325" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1200" width="1814" height="325" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1200" width="1814" height="325" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1200" width="1814" height="325" />
+    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+    <extendedState key="DiffContextDialog" state="0" />
+    <extendedState key="dock-window-1" state="6" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
   </component>
 </application>

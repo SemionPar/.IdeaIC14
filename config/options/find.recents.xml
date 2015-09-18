@@ -1,15 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>suff</find>
-      <find>filename_suffix</find>
-      <find>&lt;name&gt;mvn.local-releases&lt;/name</find>
-      <find>return serializeProtobufMessage(</find>
-      <find>deserializeMessageProtostuff(byte[</find>
-      <find>shouldDeserializeNodeAuthenticationResponse</find>
-      <find>NodeAuthenticationResponse</find>
-      <find>nodeAuthenticationResponseProtobuf</find>
-      <find>(byte[] bytes) throws InvalidProtocolBufferException {</find>
       <find>throws InvalidProtocolBufferException</find>
       <find>BaseScreesRequest</find>
       <find>ScreenSanctionRequest</find>
@@ -31,12 +22,17 @@
       <find>przeswietl.pl</find>
       <find>zastrz-udost-dan-kli</find>
       <find>liczba-rek</find>
+      <find>BigInteger</find>
+      <find>XMLGregorianCalendar</find>
+      <find>raport</find>
+      <find>nr-ref-dla-rap-uzup</find>
+      <find>czas-sys</find>
+      <find>IgHeader</find>
+      <find>typ-zapyt</find>
+      <find>(17, 37)</find>
+      <find>\t</find>
     </findStrings>
     <replaceStrings>
-      <replace>&quot;//*[@id=\\\\&quot;main-content\\\\&quot;]/form/div[2]/div[1]/div[3]/label&quot;</replace>
-      <replace>TransfersPage</replace>
-      <replace>transfersPage</replace>
-      <replace>&quot; Set</replace>
       <replace>@return UsersPage</replace>
       <replace>new UsersPage(driver());</replace>
       <replace>shouldD</replace>
@@ -63,6 +59,10 @@
       <replace>deserializeMessage(byte[</replace>
       <replace />
       <replace>(byte[] bytes)  {</replace>
+      <replace>BigDecimal</replace>
+      <replace>LocalDate</replace>
+      <replace>()</replace>
+      <replace />
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\serializer\protobuf</dir>

@@ -1,53 +1,58 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="run-configuration-type-temp">
-      <project id="veris-big" values="Application,JUnit" collectionTime="1442298197369" />
+      <project id="veris-big" values="Application,JUnit" collectionTime="1442478669110" />
       <project id="jbus-dto" values="JUnit" collectionTime="1441804511851" />
-      <project id="veris-knf" values="GradleRunConfiguration" collectionTime="1442223020265" />
+      <project id="veris-knf" values="GradleRunConfiguration" collectionTime="1442414741773" />
     </group>
     <group name="language-level">
-      <project id="veris-big" values="JDK_1_8" collectionTime="1442298197561" />
+      <project id="veris-big" values="JDK_1_8" collectionTime="1442478669220" />
       <project id="jbus-dto" values="JDK_1_8" collectionTime="1441804511951" />
-      <project id="veris-knf" values="JDK_1_8" collectionTime="1442223020355" />
+      <project id="veris-knf" values="JDK_1_8" collectionTime="1442414741897" />
     </group>
     <group name="file-type">
-      <project id="veris-big" values="PLAIN_TEXT,Properties,Groovy,XML,Git file,JAVA,IDEA_MODULE,UNKNOWN" collectionTime="1442298197528" />
-      <project id="jbus-dto" values="UNKNOWN,IDEA_MODULE,JAVA,Protobuf,Git file,PLAIN_TEXT,XML" collectionTime="1441804511937" />
-      <project id="veris-knf" values="Groovy,Git file,JSP,JAVA,Properties,JavaScript,CSS,XML,HTML,PLAIN_TEXT,IDEA_MODULE,UNKNOWN,Images" collectionTime="1442223020339" />
+      <project id="veris-big" values="JAVA,IDEA_MODULE,PLAIN_TEXT,Groovy,Git file,XML,Properties,UNKNOWN" collectionTime="1442478669205" />
+      <project id="jbus-dto" values="IDEA_MODULE,PLAIN_TEXT,JAVA,Git file,UNKNOWN,Protobuf,XML" collectionTime="1441804511937" />
+      <project id="veris-knf" values="Groovy,HTML,XML,JAVA,Properties,UNKNOWN,JSP,PLAIN_TEXT,Git file,IDEA_MODULE,Images,CSS,JavaScript" collectionTime="1442414741868" />
     </group>
     <group name="vcs">
-      <project id="veris-big" values="Git" collectionTime="1442298197368" />
+      <project id="veris-big" values="Git" collectionTime="1442478669109" />
       <project id="jbus-dto" values="Git" collectionTime="1441804511849" />
-      <project id="veris-knf" values="Git" collectionTime="1442223020263" />
+      <project id="veris-knf" values="Git" collectionTime="1442414741771" />
+    </group>
+    <group name="VCS Log">
+      <project id="veris-big" values="vcs.log.commit.count=91,vcs.log.git.root.count" collectionTime="1442478669219" />
     </group>
     <group name="frameworks">
       <project id="jbus-dto" values="protobuf" collectionTime="1441804511849" />
     </group>
     <group name="module type">
-      <project id="veris-big" values="JAVA_MODULE" collectionTime="1442298197368" />
+      <project id="veris-big" values="JAVA_MODULE" collectionTime="1442478669109" />
       <project id="jbus-dto" values="JAVA_MODULE" collectionTime="1441804511850" />
-      <project id="veris-knf" values="JAVA_MODULE" collectionTime="1442223020264" />
+      <project id="veris-knf" values="JAVA_MODULE" collectionTime="1442414741772" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="13" />
-      <entry feature="execute.Application.Run" count="22" />
+      <entry feature="CreateFile.CreateFileAction" count="15" />
+      <entry feature="execute.Application.Run" count="48" />
       <entry feature="execute.JUnit.Debug" count="2" />
-      <entry feature="execute.JUnit.Run" count="3" />
+      <entry feature="execute.JUnit.Run" count="4" />
       <entry feature="ide.help.ideaInterface.editor" count="1" />
       <entry feature="ide.settings.Appearance" count="1" />
       <entry feature="ide.settings.Code_Folding" count="1" />
       <entry feature="ide.settings.Code_Style" count="1" />
-      <entry feature="ide.settings.File_Encodings" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="2" />
       <entry feature="ide.settings.File_and_Code_Templates" count="1" />
       <entry feature="ide.settings.Git" count="3" />
       <entry feature="ide.settings.Java" count="6" />
-      <entry feature="ide.settings.Keymap" count="4" />
+      <entry feature="ide.settings.Keymap" count="5" />
+      <entry feature="ide.settings.Live_Templates" count="3" />
       <entry feature="ide.settings.Plugins" count="1" />
-      <entry feature="ide.settings.Save_Actions" count="4" />
+      <entry feature="ide.settings.Save_Actions" count="6" />
       <entry feature="ide.settings.Terminal" count="4" />
-      <entry feature="ideaapp.started" count="17" />
+      <entry feature="ideaapp.started" count="21" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
   </component>

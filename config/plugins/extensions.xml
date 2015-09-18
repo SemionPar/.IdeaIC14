@@ -1478,6 +1478,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.kotlin_module">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.kotlin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.kt">
       <plugins>
         <option name="myPlugins">

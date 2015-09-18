@@ -4,7 +4,7 @@
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
     <property name="default.storage.format" value=".idea (directory based)" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/settings(4).jar&#10;C:/Users/Programista/IdeaProjects/veris-big/src/main/java&#10;C:/Users/Programista/Downloads/settings(3).jar&#10;C:/Users/Programista/IdeaProjects/veris-big&#10;C:/Users/Programista/IdeaProjects/veris-knf&#10;C:/Users/Programista/IdeaProjects/jbus-dto&#10;C:/Users/Programista/Downloads/settings(2).jar&#10;C:/Users/Programista/Downloads/settings(1).jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/IdeaProjects/veris-transfer&#10;C:/Users/Programista/IdeaProjects/jpaproject/myproject&#10;C:/Users/Programista/IdeaProjects/jpaproject&#10;C:/Users/Programista/IdeaProjects/veris-big&#10;C:/Users/Programista/IdeaProjects/veris-big/src/main/java&#10;C:/Users/Programista/Downloads/settings(4).jar&#10;C:/Users/Programista/Downloads/settings(3).jar&#10;C:/Users/Programista/IdeaProjects/veris-knf&#10;C:/Users/Programista/IdeaProjects/jbus-dto&#10;C:/Users/Programista/Downloads/settings(2).jar&#10;C:/Users/Programista/Downloads/settings(1).jar" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="file.colors.enable.tests" value="Green" />
@@ -16,7 +16,7 @@
     <property name="export.settings.path" value="C:\Users\Programista\.IdeaIC14\config\settings.jar" />
     <property name="PLUGIN_FILTER" value="ecl" />
     <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
-    <property name="KEYMAP" value="context&#10;REFORM&#10;camelh&#10;pin&#10;caret" />
+    <property name="KEYMAP" value="project&#10;context&#10;REFORM&#10;camelh&#10;pin" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -45,9 +45,16 @@
     <property name="ProjectStructure.TopLevelElements" value="0.15" />
     <property name="ProjectStructure.SecondLevelElements" value="0.2" />
     <property name="MoveClassWithTarget.OpenInEditor" value="false" />
-    <property name="FileTemplates.CurrentTab" value="Includes" />
-    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="FileTemplates.SelectedTemplate" value="Html" />
     <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
     <property name="fileTypeChangedCounter" value="3" />
+    <property name="MoveClass.OpenInEditor" value="true" />
+    <property name="last.imported.location" value="$USER_HOME$/IdeaProjects/veris-transfer" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="last.used.gradle.home" value="$USER_HOME$/gradle-2.6" />
+    <property name="project.jdk.splitter" value="0.2" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="MoveFile.OpenInEditor" value="true" />
   </component>
 </application>
