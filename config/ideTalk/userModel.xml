@@ -1,0 +1,14 @@
+<users>
+  <myUsers class="set">
+    <user>
+      <myName>Programista</myName>
+      <myGroup>veris-knf</myGroup>
+      <myDisplayName>Programista</myDisplayName>
+      <myCanAccessMyFiles>false</myCanAccessMyFiles>
+      <myTransportCode>P2P</myTransportCode>
+    </user>
+  </myUsers>
+  <myGroups class="set">
+    <string>veris-knf</string>
+  </myGroups>
+</users>

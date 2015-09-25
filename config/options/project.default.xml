@@ -20,12 +20,15 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/IdeaProjects/veris-big" value="2883599201076" />
-            <entry key="$USER_HOME$/IdeaProjects/veris-transfer" value="2885140712755" />
+            <entry key="$USER_HOME$/workspaces/intellij/veris/veris-big" value="2885109725147" />
             <entry key="$USER_HOME$/workspaces/intellij/veris/veris-knf" value="1440578396604" />
+            <entry key="$USER_HOME$/workspaces/intellij/veris/veris-transfer" value="2884985499602" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -57,7 +60,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="fileTemplates" />
+        <property name="settings.editor.selected.configurable" value="File.Encoding" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />

@@ -1,14 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>throws InvalidProtocolBufferException</find>
-      <find>BaseScreesRequest</find>
-      <find>ScreenSanctionRequest</find>
-      <find>pl.cinkciarz.jbus.dto.serializer.protobuf.ScreenSanctionRequestSerializerTest#shouldSerializePersonSubjectAndEqualsBytes</find>
-      <find>shouldSerializePersonSubjectAndEqualsBytes</find>
-      <find>BusinessClientCompanyNameExis</find>
-      <find>pobranie-raportu-fin</find>
-      <find>address2</find>
       <find>liczba-rachunkow</find>
       <find>obow</find>
       <find>dane-agregowane</find>
@@ -31,9 +23,16 @@
       <find>typ-zapyt</find>
       <find>(17, 37)</find>
       <find>\t</find>
+      <find>Record</find>
+      <find>Deprecated</find>
+      <find>sour</find>
+      <find>switch</find>
+      <find>TimeLimitExceededException</find>
+      <find>throw new</find>
+      <find>DataTypeException</find>
+      <find>DatatypeConfigurationException</find>
     </findStrings>
     <replaceStrings>
-      <replace>@return UsersPage</replace>
       <replace>new UsersPage(driver());</replace>
       <replace>shouldD</replace>
       <replace>selectByText</replace>
@@ -63,6 +62,7 @@
       <replace>LocalDate</replace>
       <replace>()</replace>
       <replace />
+      <replace>IllegalArgumentException</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\serializer\protobuf</dir>
