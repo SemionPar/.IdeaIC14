@@ -1,0 +1,23 @@
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="e04ddb5f7ae1d4235471d54fc1c699235996c9faed60c9885418bb50ecb040c8" />
+          <option value="1913d2ba49b267ae361c4a1d0cb5c2cb0c8859825745efda4d6ce0817c72d84e" />
+          <option value="32d0aaf6ce669d62ac301c7b36df6db35826ac145afc12ff4d54beefef92aa30" />
+          <option value="52a236df74a0e39d8dbd46c90a4873d47c22db1e3a3dc0ad01302a3688f958cf" />
+        </array>
+        <array>
+          <option value="673afe9f1b88bbe0f632ed5719db81fd" />
+          <option value="afe07d9598808ea7a10515465c44622e0af3ccaa161cf902bb8a6fba682c8b28" />
+          <option value="673afe9f1b88bbe0f632ed5719db81fd" />
+          <option value="cc7c3eb6ed02db352cf4e3410046ccab7b417d25fe8c21ddc0fe8fc423374a61" />
+        </array>
+      </array>
+    </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="git@stash.local:7999" method="publickey" />
+  </component>
+</application>

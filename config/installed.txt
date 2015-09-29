@@ -1,0 +1,12 @@
+com.intellij
+CMD Support
+IDETalk
+Insert Final Modifier
+Key promoter
+Lombook Plugin
+MoreUnit
+PIT mutation testing Idea plugin
+awesome.console
+com.dubreuia
+org.jetbrains.code-golf
+org.intellij.scala

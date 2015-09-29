@@ -1,0 +1,44 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="openjdk version &quot;1.8.0_45-internal&quot;" />
+      <homePath value="$JAVA_HOME$" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/ext/icedtea-sound.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/ext/java-atk-wrapper.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://$JAVA_HOME$/jre/lib/ext/sunjce_provider.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

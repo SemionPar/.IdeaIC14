@@ -1,0 +1,75 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="file.chooser.recent.files" value="/usr/lib/jvm/java-8-openjdk-amd64&#10;/home/programista/IdeaProjects/settings1.4.jar&#10;/home/programista/IdeaProjects/veris-big&#10;/usr/bin&#10;/home/programista/IdeaProjects/jbus&#10;C:/Users/Programista/Downloads/settings(5).jar&#10;C:/Users/Programista/IdeaProjects/veris-transfer&#10;C:/Users/Programista/IdeaProjects/jpaproject/myproject&#10;C:/Users/Programista/IdeaProjects/jpaproject&#10;C:/Users/Programista/IdeaProjects/veris-big&#10;C:/Users/Programista/IdeaProjects/veris-big/src/main/java&#10;C:/Users/Programista/Downloads/settings(4).jar&#10;C:/Users/Programista/Downloads/settings(3).jar&#10;C:/Users/Programista/IdeaProjects/veris-knf&#10;C:/Users/Programista/IdeaProjects/jbus-dto&#10;C:/Users/Programista/Downloads/settings(2).jar&#10;C:/Users/Programista/Downloads/settings(1).jar" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="lastTip" value="2" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="Tests" value="Green" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="export.settings.path" value="C:\Users\Programista\.IdeaIC14\config\settings.jar" />
+    <property name="PLUGIN_FILTER" value="chain&#10;ide&#10;hi&#10;cha&#10;de" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Blank Lines" />
+    <property name="KEYMAP" value="unspli&#10;project&#10;context&#10;REFORM&#10;camelh" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="test_tree_console_proprtion" value="0.2" />
+    <property name="junit_statistics_table_columnsWidth0" value="75" />
+    <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="junit_statistics_table_columnsWidth1" value="75" />
+    <property name="junit_statistics_table_columnsOrder1" value="1" />
+    <property name="junit_statistics_table_columnsWidth2" value="75" />
+    <property name="junit_statistics_table_columnsOrder2" value="2" />
+    <property name="junit_statistics_table_columnsWidth3" value="75" />
+    <property name="junit_statistics_table_columnsOrder3" value="3" />
+    <property name="junit_statistics_table_columnsWidth4" value="75" />
+    <property name="junit_statistics_table_columnsOrder4" value="4" />
+    <property name="junit_statistics_table_columnsWidth5" value="75" />
+    <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="MoveClassWithTarget.OpenInEditor" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="FileTemplates.SelectedTemplate" value="Html" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="MoveClass.OpenInEditor" value="true" />
+    <property name="last.imported.location" value="$USER_HOME$/IdeaProjects/veris-big" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="last.used.gradle.home" value="/usr/lib/gradle/2.7" />
+    <property name="project.jdk.splitter" value="0.2" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="com.vincenzodevivo.idea.deltashare.chat.server.status" value="started" />
+    <property name="com.vincenzodevivo.idea.deltashare.chat.server.port" value="22222" />
+    <property name="com.vincenzodevivo.idea.deltashare.username" value="SP" />
+    <property name="com.vincenzodevivo.idea.deltashare.host" value="192.168.99.1" />
+    <property name="Gradle.Splitter.Proportion" value="0.2" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="installation.uid" value="c0345dc4-5dd8-488a-8676-c3f6fbae808e" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.wizard.template" value="Java" />
+  </component>
+</application>

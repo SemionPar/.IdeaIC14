@@ -1,0 +1,75 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>liczba-rachunkow</find>
+      <find>obow</find>
+      <find>dane-agregowane</find>
+      <find>opis-kodu-klasyfikacji-uzupel</find>
+      <find>dane-dot-repr-os</find>
+      <find>zobow-niebank</find>
+      <find>zobow-niesp</find>
+      <find>form-przek-adr</find>
+      <find>zagr-dane-adr</find>
+      <find>dlugi-info</find>
+      <find>przeswietl.pl</find>
+      <find>zastrz-udost-dan-kli</find>
+      <find>liczba-rek</find>
+      <find>BigInteger</find>
+      <find>XMLGregorianCalendar</find>
+      <find>raport</find>
+      <find>nr-ref-dla-rap-uzup</find>
+      <find>czas-sys</find>
+      <find>IgHeader</find>
+      <find>typ-zapyt</find>
+      <find>(17, 37)</find>
+      <find>\t</find>
+      <find>Record</find>
+      <find>Deprecated</find>
+      <find>sour</find>
+      <find>switch</find>
+      <find>TimeLimitExceededException</find>
+      <find>throw new</find>
+      <find>DataTypeException</find>
+      <find>DatatypeConfigurationException</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>new UsersPage(driver());</replace>
+      <replace>shouldD</replace>
+      <replace>selectByText</replace>
+      <replace>@return TransactionsFxSearchPage</replace>
+      <replace>transactionsFxSearchPage = new TransactionsFxSearchPage(driver());</replace>
+      <replace>standingOrdersSearchPage = new StandingOrdersSearchPage(driver());</replace>
+      <replace>walletTransactionsSearchPage = new WalletTransactionsSearchPage(driver());</replace>
+      <replace>@return  WalletTransactionsSearchPage</replace>
+      <replace>@return WalletTransactionsSearchPage</replace>
+      <replace>taskManagementPage = new TaskManagementPage(driver());</replace>
+      <replace>@return TaskManagementPage</replace>
+      <replace>addTaskPage = new AddTaskPage(driver());</replace>
+      <replace>@return AddTaskPage</replace>
+      <replace>taskManagementPanelPage = new TaskManagementPanelPage(driver());</replace>
+      <replace>futureLogPage = new FutureLogPage(driver());</replace>
+      <replace>method.getName()</replace>
+      <replace>getTaskTitle(method)</replace>
+      <replace>(Method method) {</replace>
+      <replace>(new AddTaskPage(driver()), DISTANT_FUTURE_DATE, getTaskTitle(method))</replace>
+      <replace>pl.cinkciarz.jbus.dto.proto.</replace>
+      <replace>private LinkedBuffer buffer = LinkedBuffer.allocate(DEFAULT_BUFFER_SIZE);</replace>
+      <replace>return serializeProtostuffMessage(</replace>
+      <replace>deserializeMessage(byte[</replace>
+      <replace />
+      <replace>(byte[] bytes)  {</replace>
+      <replace>BigDecimal</replace>
+      <replace>LocalDate</replace>
+      <replace>()</replace>
+      <replace />
+      <replace>IllegalArgumentException</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\serializer\protobuf</dir>
+      <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\deserializer\protobuf</dir>
+      <dir>C:\Users\Programista\IdeaProjects\jbus-dto\src\main\java\pl\cinkciarz\jbus\dto\builder</dir>
+      <dir>C:\Users\Programista\IdeaProjects\veris-big\src</dir>
+      <dir>C:\Users\Programista\IdeaProjects\veris-big\src\main\java</dir>
+    </dirStrings>
+  </component>
+</application>
