@@ -1,33 +1,33 @@
 <application>
   <component name="DimensionService">
-    <location key="FileChooserDialogImpl.0.0.1920.1200" x="667" y="411" />
+    <location key="FileChooserDialogImpl.0.0.1920.1200" x="667" y="439" />
     <location key="WELCOME_SCREEN.0.0.1920.1200" x="929" y="606" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1200" x="636" y="411" />
-    <location key="SettingsEditor.0.0.1920.1200" x="583" y="351" />
-    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1200" x="686" y="319" />
-    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1200" x="734" y="301" />
-    <location key="DiffWindow.0.0.1920.1200" x="3" y="21" />
-    <location key="MultipleFileMergeDialog.0.0.1920.1200" x="627" y="332" />
+    <location key="SettingsEditor.0.0.1920.1200" x="533" y="257" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1200" x="686" y="347" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1200" x="734" y="413" />
+    <location key="DiffWindow.0.0.1920.1200" x="65" y="52" />
+    <location key="MultipleFileMergeDialog.0.0.1920.1200" x="627" y="388" />
     <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1200" x="766" y="467" />
     <location key="findTextDialog.0.0.1920.1200" x="722" y="342" />
-    <location key="RollbackChangesDialog.0.0.1920.1200" x="708" y="306" />
+    <location key="RollbackChangesDialog.0.0.1920.1200" x="708" y="334" />
     <location key="FileChooserDialogImpl.1920.0.1920.1200" x="2691" y="342" />
-    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1200" x="659" y="348" />
-    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1200" x="686" y="476" />
-    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1200" x="717" y="445" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1200" x="659" y="432" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1200" x="686" y="616" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1200" x="717" y="501" />
     <location key="IgnoredSettingsDialog.0.0.1920.1200" x="720" y="467" />
-    <location key="CommitChangelistDialog2.0.0.1920.1200" x="547" y="297" />
-    <location key="#Project_Structure.0.0.1920.1200" x="241" y="174" />
-    <location key="Vcs.Push.Dialog.0.0.1920.1200" x="365" y="307" />
+    <location key="CommitChangelistDialog2.0.0.1920.1200" x="547" y="521" />
+    <location key="#Project_Structure.0.0.1920.1200" x="581" y="263" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1200" x="426" y="288" />
     <location key="VCS.ChangelistChooser.0.0.1920.1200" x="744" y="424" />
     <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1200" x="473" y="0" />
     <location key="refactoring.ChangeSignatureDialog.0.0.1920.1200" x="670" y="209" />
-    <location key="DiffContextDialog.0.0.1920.1200" x="92" y="92" />
+    <location key="DiffContextDialog.0.0.1920.1200" x="92" y="176" />
     <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1200" x="515" y="510" />
-    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1200" x="759" y="210" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1200" x="759" y="266" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1200" x="704" y="390" />
     <location key="WELCOME_SCREEN.1920.0.1920.1200" x="2377" y="230" />
-    <location key="dock-window-1.1920.0.1920.1200" x="1974" y="-8" />
+    <location key="dock-window-1.1920.0.1920.1200" x="1985" y="-4" />
     <location key="#Atlassian_Connector_-_Global.0.0.1920.1200" x="571" y="266" />
     <location key="#Atlassian_Connector_-_Project.0.0.1920.1200" x="511" y="192" />
     <location key="replaceTextDialog.0.0.1920.1200" x="1028" y="132" />
@@ -35,12 +35,12 @@
     <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1200" x="668" y="363" />
     <location key="scopes.0.0.1920.1200" x="721" y="451" />
     <location key="RollbackChangesDialog.1920.0.1920.1200" x="2690" y="321" />
-    <location key="git4idea.branch.GitSmartOperationDialog.0.0.1920.1200" x="709" y="313" />
+    <location key="git4idea.branch.GitSmartOperationDialog.0.0.1920.1200" x="709" y="341" />
     <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.1920.1200" x="661" y="313" />
-    <location key="NewModule_or_Project.wizard.0.0.1920.1200" x="439" y="193" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1200" x="439" y="221" />
     <location key="StructurePopup.0.0.1920.1200" x="710" y="384" />
-    <location key="dock-window-2.1920.0.1920.1200" x="1956" y="121" />
-    <location key="extract.method.dialog.0.0.1920.1200" x="659" y="375" />
+    <location key="dock-window-2.1920.0.1920.1200" x="1985" y="24" />
+    <location key="extract.method.dialog.0.0.1920.1200" x="659" y="403" />
     <location key="dock-window-1.0.0.1920.1200" x="-8" y="-8" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1200" x="92" y="92" />
     <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1200" x="537" y="336" />
@@ -49,27 +49,29 @@
     <location key="GitCloneDialog.0.0.1920.1200" x="637" y="501" />
     <location key="git4idea.ui.GitUnstashDialog.0.0.1920.1200" x="403" y="414" />
     <location key="git4idea.ui.GitStashDialog.0.0.1920.1200" x="700" y="494" />
-    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" x="1971" y="36" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" x="1985" y="36" />
     <location key="new project wizard.1920.0.1920.1200" x="1985" y="128" />
+    <location key="DiffContextDialog.1920.0.1920.1200" x="1985" y="24" />
+    <location key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.0.0.1920.1200" x="165" y="152" />
     <size key="DiffWindow.0.0.1920.1200" width="1855" height="1086" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1814" height="263" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1814" height="263" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1814" height="263" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1814" height="263" />
-    <size key="javadoc.popup.0.0.1920.1200" width="535" height="202" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1809" height="191" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1809" height="191" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1809" height="191" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1809" height="191" />
+    <size key="javadoc.popup.0.0.1920.1200" width="804" height="257" />
     <size key="javadoc.popup.1920.0.1920.1200" width="446" height="165" />
     <size key="GridCell.Tab.1.left.0.0.1920.1200" width="1858" height="145" />
     <size key="GridCell.Tab.1.center.0.0.1920.1200" width="1858" height="145" />
     <size key="GridCell.Tab.1.right.0.0.1920.1200" width="1858" height="145" />
     <size key="GridCell.Tab.1.bottom.0.0.1920.1200" width="1858" height="145" />
-    <size key="dock-window-1.1920.0.1920.1200" width="1874" height="1216" />
+    <size key="dock-window-1.1920.0.1920.1200" width="1855" height="1204" />
     <size key="DiffContextDialog.0.0.1920.1200" width="1674" height="1016" />
     <size key="StructurePopup.0.0.1920.1200" width="420" height="391" />
-    <size key="GridCell.Tab.0.left.1920.0.1920.1200" width="1814" height="325" />
-    <size key="GridCell.Tab.0.center.1920.0.1920.1200" width="1814" height="325" />
-    <size key="GridCell.Tab.0.right.1920.0.1920.1200" width="1814" height="325" />
-    <size key="GridCell.Tab.0.bottom.1920.0.1920.1200" width="1814" height="325" />
-    <size key="dock-window-2.1920.0.1920.1200" width="1674" height="1016" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1200" width="1809" height="307" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1200" width="1809" height="307" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1200" width="1809" height="307" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1200" width="1809" height="307" />
+    <size key="dock-window-2.1920.0.1920.1200" width="1855" height="1176" />
     <size key="dock-window-1.0.0.1920.1200" width="1874" height="1216" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1200" width="1674" height="1016" />
     <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1200" width="560" height="418" />
@@ -77,11 +79,25 @@
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" width="1674" height="1016" />
     <size key="new project wizard.1920.0.1920.1200" width="842" height="788" />
     <size key="FileChooserDialogImpl.0.0.1920.1200" width="520" height="494" />
-    <size key="NewModule_or_Project.wizard.0.0.1920.1200" width="842" height="679" />
-    <size key="SettingsEditor.0.0.1920.1200" width="1127" height="664" />
+    <size key="NewModule_or_Project.wizard.0.0.1920.1200" width="939" height="679" />
+    <size key="SettingsEditor.0.0.1920.1200" width="1127" height="705" />
     <size key="#Project_Structure.0.0.1920.1200" width="1024" height="827" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1200" width="563" height="212" />
+    <size key="RollbackChangesDialog.0.0.1920.1200" width="426" height="524" />
+    <size key="MultipleFileMergeDialog.0.0.1920.1200" width="666" height="519" />
+    <size key="git4idea.branch.GitSmartOperationDialog.0.0.1920.1200" width="547" height="569" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1920.1200" width="374" height="633" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1200" width="524" height="466" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1200" width="534" height="280" />
+    <size key="CommitChangelistDialog2.0.0.1920.1200" width="778" height="573" />
+    <size key="Vcs.Push.Dialog.0.0.1920.1200" width="1431" height="564" />
+    <size key="extract.method.dialog.0.0.1920.1200" width="524" height="429" />
+    <size key="DiffContextDialog.1920.0.1920.1200" width="1855" height="1176" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1200" width="324" height="751" />
+    <size key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.0.0.1920.1200" width="1655" height="976" />
     <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
     <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
+    <extendedState key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
     <extendedState key="dock-window-1" state="6" />
     <extendedState key="DiffContextDialog" state="0" />
@@ -89,6 +105,6 @@
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
-    <extendedState key="dock-window-2" state="0" />
+    <extendedState key="dock-window-2" state="6" />
   </component>
 </application>
