@@ -1,7 +1,0 @@
-<application>
-  <component name="UpdatesConfigurable">
-    <outdatedPlugins>
-      <item value="org.intellij.scala" />
-    </outdatedPlugins>
-  </component>
-</application>

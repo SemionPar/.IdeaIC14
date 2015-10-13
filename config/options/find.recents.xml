@@ -1,10 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>liczba-rachunkow</find>
-      <find>obow</find>
-      <find>dane-agregowane</find>
-      <find>opis-kodu-klasyfikacji-uzupel</find>
       <find>dane-dot-repr-os</find>
       <find>zobow-niebank</find>
       <find>zobow-niesp</find>
@@ -31,6 +27,10 @@
       <find>throw new</find>
       <find>DataTypeException</find>
       <find>DatatypeConfigurationException</find>
+      <find>shouldReturn200StatusIfRecordsWereFound</find>
+      <find>main</find>
+      <find>r</find>
+      <find>shouldSaveRecordAsOutdatedWhenMessageChanged</find>
     </findStrings>
     <replaceStrings>
       <replace>new UsersPage(driver());</replace>
