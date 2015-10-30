@@ -1201,12 +1201,12 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.gr">
+    <entry key="*.go">
       <plugins>
         <option name="myPlugins">
           <set>
             <plugin>
-              <option name="myPluginId" value="Gosu Debugger" />
+              <option name="myPluginId" value="ro.redeul.google.go" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -1227,19 +1227,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.gs">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="Gosu Debugger" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.gsp">
       <plugins>
         <option name="myPlugins">
@@ -1248,37 +1235,6 @@
               <option name="myPluginId" value="org.intellij.grails" />
               <option name="myPluginName" value="Grails" />
               <option name="myBundled" value="true" />
-            </plugin>
-            <plugin>
-              <option name="myPluginId" value="Gosu Debugger" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.gst">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="Gosu Debugger" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.gsx">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="Gosu Debugger" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
             </plugin>
           </set>
         </option>
@@ -3886,19 +3842,6 @@
               <option name="myPluginId" value="com.intellij.diagram" />
               <option name="myPluginName" value="UML Support" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.vark">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="Gosu Debugger" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
             </plugin>
           </set>
         </option>

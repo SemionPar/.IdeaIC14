@@ -4,7 +4,7 @@
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
     <property name="default.storage.format" value=".idea (directory based)" />
-    <property name="file.chooser.recent.files" value="/usr/lib/jvm/java-1.8.0-openjdk-amd64&#10;/home/programista/IdeaProjects/veris-knf/src&#10;/home/programista/IdeaProjects/veris-knf/build/classes&#10;/usr/lib/jvm/java-8-openjdk-amd64&#10;/usr/lib/jvm/default-java&#10;/home/programista/IdeaProjects/jbus-dto&#10;/home/programista/IdeaProjects/settings1.4.jar&#10;/home/programista/IdeaProjects/veris-knf&#10;/home/programista/IdeaProjects/veris-big&#10;/usr/bin&#10;/home/programista/IdeaProjects/jbus&#10;C:/Users/Programista/Downloads/settings(5).jar&#10;C:/Users/Programista/IdeaProjects/veris-transfer&#10;C:/Users/Programista/IdeaProjects/jpaproject/myproject&#10;C:/Users/Programista/IdeaProjects/jpaproject&#10;C:/Users/Programista/IdeaProjects/veris-big&#10;C:/Users/Programista/IdeaProjects/veris-big/src/main/java&#10;C:/Users/Programista/Downloads/settings(4).jar&#10;C:/Users/Programista/Downloads/settings(3).jar&#10;C:/Users/Programista/IdeaProjects/veris-knf&#10;C:/Users/Programista/IdeaProjects/jbus-dto&#10;C:/Users/Programista/Downloads/settings(2).jar&#10;C:/Users/Programista/Downloads/settings(1).jar" />
+    <property name="file.chooser.recent.files" value="/usr/lib/jvm/java-8-openjdk-amd64&#10;/usr/lib/jvm/default-java&#10;/home/programista/IdeaProjects/jbus&#10;/home/programista/IdeaProjects/jbus-dto&#10;/home/programista/IdeaProjects/veris-transfer&#10;/usr/lib/jvm/java-1.8.0-openjdk-amd64&#10;/home/programista/IdeaProjects/veris-knf/src&#10;/home/programista/IdeaProjects/veris-knf/build/classes&#10;/home/programista/IdeaProjects/settings1.4.jar&#10;/home/programista/IdeaProjects/veris-knf&#10;/home/programista/IdeaProjects/veris-big&#10;/usr/bin&#10;C:/Users/Programista/Downloads/settings(5).jar&#10;C:/Users/Programista/IdeaProjects/veris-transfer&#10;C:/Users/Programista/IdeaProjects/jpaproject/myproject&#10;C:/Users/Programista/IdeaProjects/jpaproject&#10;C:/Users/Programista/IdeaProjects/veris-big&#10;C:/Users/Programista/IdeaProjects/veris-big/src/main/java&#10;C:/Users/Programista/Downloads/settings(4).jar&#10;C:/Users/Programista/Downloads/settings(3).jar&#10;C:/Users/Programista/IdeaProjects/veris-knf&#10;C:/Users/Programista/IdeaProjects/jbus-dto&#10;C:/Users/Programista/Downloads/settings(2).jar&#10;C:/Users/Programista/Downloads/settings(1).jar" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="file.colors.enable.tests" value="Green" />
@@ -24,7 +24,7 @@
     <property name="FindSplitterProportion" value="0.25" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="ShowDocumentationInToolWindow" value="false" />
-    <property name="test_tree_console_proprtion" value="0.24395728" />
+    <property name="test_tree_console_proprtion" value="0.35019675" />
     <property name="junit_statistics_table_columnsWidth0" value="75" />
     <property name="junit_statistics_table_columnsOrder0" value="0" />
     <property name="junit_statistics_table_columnsWidth1" value="75" />
@@ -43,14 +43,14 @@
     <property name="LayoutCode.rearrangeEntries" value="true" />
     <property name="LayoutCode.processChangedText" value="true" />
     <property name="ProjectStructure.TopLevelElements" value="0.15" />
-    <property name="ProjectStructure.SecondLevelElements" value="0.37816092" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
     <property name="MoveClassWithTarget.OpenInEditor" value="false" />
     <property name="FileTemplates.CurrentTab" value="Templates" />
     <property name="FileTemplates.SelectedTemplate" value="Html" />
     <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3620438" />
-    <property name="fileTypeChangedCounter" value="3" />
+    <property name="fileTypeChangedCounter" value="5" />
     <property name="MoveClass.OpenInEditor" value="true" />
-    <property name="last.imported.location" value="$USER_HOME$/IdeaProjects/jbus-dto" />
+    <property name="last.imported.location" value="$USER_HOME$/IdeaProjects/jbus" />
     <property name="create.project.preferred.importer" value="Maven" />
     <property name="last.used.gradle.home" value="/usr/lib/gradle/2.7" />
     <property name="project.jdk.splitter" value="0.2" />
@@ -73,5 +73,7 @@
     <property name="project.wizard.template" value="Java" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="GradleSupport.hidePassedTests" value="true" />
+    <property name="filter_non_existing" value="false" />
   </component>
 </application>

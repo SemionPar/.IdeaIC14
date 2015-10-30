@@ -1,21 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>dane-dot-repr-os</find>
-      <find>zobow-niebank</find>
-      <find>zobow-niesp</find>
-      <find>form-przek-adr</find>
-      <find>zagr-dane-adr</find>
-      <find>dlugi-info</find>
-      <find>przeswietl.pl</find>
-      <find>zastrz-udost-dan-kli</find>
-      <find>liczba-rek</find>
-      <find>BigInteger</find>
-      <find>XMLGregorianCalendar</find>
-      <find>raport</find>
-      <find>nr-ref-dla-rap-uzup</find>
-      <find>czas-sys</find>
-      <find>IgHeader</find>
       <find>typ-zapyt</find>
       <find>(17, 37)</find>
       <find>\t</find>
@@ -31,6 +16,21 @@
       <find>main</find>
       <find>r</find>
       <find>shouldSaveRecordAsOutdatedWhenMessageChanged</find>
+      <find>gener</find>
+      <find>sourceSets</find>
+      <find>shouldSaveRecordAsOutdated</find>
+      <find>getOutdatedRecords</find>
+      <find>getRecord</find>
+      <find>Record getRecord(</find>
+      <find>createNumberVerificationReason</find>
+      <find>shouldFindVerificationResponseByNip</find>
+      <find>veris.knf.url</find>
+      <find>ServiceProperties</find>
+      <find>nie powi</find>
+      <find>aktua</find>
+      <find>spring-boot</find>
+      <find>recordManager.saveOrUpdate(newRecords);</find>
+      <find>citi</find>
     </findStrings>
     <replaceStrings>
       <replace>new UsersPage(driver());</replace>

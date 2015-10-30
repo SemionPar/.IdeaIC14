@@ -2,8 +2,10 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/IdeaProjects/veris-knf" />
         <option value="$USER_HOME$/IdeaProjects/veris-big" />
+        <option value="$USER_HOME$/IdeaProjects/veris-knf" />
+        <option value="$USER_HOME$/IdeaProjects/jbus" />
+        <option value="$USER_HOME$/IdeaProjects/veris-transfer" />
         <option value="$USER_HOME$/IdeaProjects/jbus-dto" />
         <option value="$USER_HOME$/IdeaProjects/untitled" />
         <option value="C:\Users\Programista\IdeaProjects\veris-big" />
@@ -16,10 +18,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/IdeaProjects/veris-knf" />
+        <option value="$USER_HOME$/IdeaProjects/veris-big" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/IdeaProjects/veris-knf" />
+    <option name="lastPath" value="$USER_HOME$/IdeaProjects/veris-big" />
     <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>
